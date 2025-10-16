@@ -1,0 +1,3 @@
+([('main',
+   '/Users/monix/Python/Learning_and_trying/Snake_game/dist/main',
+   'EXECUTABLE')],)
