@@ -8,7 +8,7 @@ Welcome to the **Snake Game**! This is a fun and interactive game where you cont
    - **Down Arrow**: Move down
    - **Left Arrow**: Move left
    - **Right Arrow**: Move right
-2. Eat the food to grow your snake.
+2. Eat the food with prime number to grow your snake.
 3. Avoid colliding with the walls or yourself, or the game will end.
 
 ## Features
@@ -60,5 +60,9 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 ## Acknowledgments
 - Built with Python's `turtle` module.
 - Inspired by the classic Snake game.
+
+## Gameplay Instructions
+
+In this Snake Game, one of the unique mechanics involves picking prime numbers. When the snake eats food, the game will prompt you to identify whether the number displayed is a prime number. Make sure to pick the prime numbers to score points and progress in the game!
 
 Enjoy the game and have fun!
